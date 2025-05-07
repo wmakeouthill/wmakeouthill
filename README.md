@@ -18,7 +18,7 @@ Estagiário em Gestão de Projetos na ANBIMA/Selic, no convênio entre ANBIMA e 
 
 ## 🌊 Projetos em Desenvolvimento
 
-- 🧠 **AA Connect**: Site completo com fórum para Alcoólicos Anônimos, com chat individual e em grupo para suporte mútuo
+- 🧠 **AA Space**: Site completo com fórum para Alcoólicos Anônimos, com chat individual e em grupo para suporte mútuo
 - 🔄 Revitalizando um projeto antigo (em breve mais detalhes)
 - 🎓 Participando de um projeto universitário
 
