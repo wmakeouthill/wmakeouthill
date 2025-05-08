@@ -37,7 +37,7 @@ Provavelmente estou:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wmakeouthill&theme=dark&hide_border=false)<br/>
 
 ## 🌐 Vamos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wcacorreia/) 
 
 ---
 > *"Programador bom é programador descansado"* — Eu, provavelmente, depois de debugar por 5 horas seguidas
