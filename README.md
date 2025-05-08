@@ -26,7 +26,7 @@ Estagiário em Gestão de Projetos na ANBIMA/Selic, no convênio entre ANBIMA e 
 
 Provavelmente estou:
 - 📚 Lendo Edgar Allan Poe
-- 🏴‍☠️ Acompanhando One Piece
+- 🏴‍☠️ Acompanhando One Piece, ou alguma série com enredo interessante.
 - 🎧 Ouvindo:
   - 🎸 System of a Down, Bring Me The Horizon
   - 🎤 Trap e Rap
