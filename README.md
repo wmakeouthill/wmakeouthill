@@ -17,6 +17,7 @@ Estagiário em Gestão de Projetos na ANBIMA/Selic, no convênio entre ANBIMA e 
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
+
 ## 🌊 Projetos em Desenvolvimento
 
 - 🧠 **AA Space**: Site completo com fórum para Alcoólicos Anônimos, com chat individual e em grupo para suporte mútuo
@@ -26,6 +27,7 @@ Estagiário em Gestão de Projetos na ANBIMA/Selic, no convênio entre ANBIMA e 
 ## 🎵 Quando não estou codando...
 
 Provavelmente estou:
+
 - 📚 Lendo Edgar Allan Poe
 - 🏴‍☠️ Acompanhando One Piece, ou alguma série com enredo interessante.
 - 🎧 Ouvindo:
