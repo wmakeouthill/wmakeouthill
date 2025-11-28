@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Wesley (wmakeouthill)
+# 👋 Olá! Eu sou Wesley (@wmakeouthill)
 
 > *"Quanto mais você sua no treino, menos sangra no combate"* - Provérbio ninja (ou programador em deadline)
 
