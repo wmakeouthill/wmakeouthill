@@ -94,7 +94,7 @@ Provavelmente estou:
 
 | 📈 Estatísticas Gerais | 🔥 Sequência de Contribuições | 💻 Linguagens Mais Usadas |
 |---|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wmakeouthill&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&icon_color=ff6b6b&title_color=ff6b6b&bg_color=0D1117&border_color=44475a) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmakeouthill&theme=radical&hide_border=false&background=0D1117&border=44475a&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wmakeouthill&theme=radical&hide_border=false&layout=compact&langs_count=8&bg_color=0D1117&title_color=ff6b6b&text_color=c9d1d9&border_color=44475a) |
+| ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=wmakeouthill&theme=radical&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmakeouthill&theme=radical&hide_border=false&background=0D1117&border=44475a&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b) | ![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=wmakeouthill&theme=radical&layout=compact&langs_count=8) |
 
 ### 📅 Gráfico de Contribuições
 
