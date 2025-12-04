@@ -10,7 +10,7 @@
     <td width="65%">
       <h3>🚀 Desenvolvedor Full-Stack</h3>
       <p><strong>Desenvolvedor Full‑Stack</strong> — Backend: Java, Spring Boot | Frontend: Angular (17+) | Docker | CI/CD | Google Cloud Run | Firebase</p>
-      <p>Apoio no desenvolvimento de sistemas críticos de infraestrutura financeira na <strong>ANBIMA/Selic</strong> (Banco Central).</p>
+      <p>Atualmente sou estagiário, apoiando no desenvolvimento de sistemas críticos de infraestrutura financeira na <strong>ANBIMA/Selic</strong> (Banco Central), e tocando outros projetos no tempo livre.</p>
       <p>
         <a href="https://wmakeouthill.dev" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfólio-FF6B6B?style=for-the-badge" /></a>
         <a href="https://www.linkedin.com/in/wcacorreia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -27,7 +27,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor apaixonado por criar soluções inovadoras e superar desafios. Atualmente, atuo como estagiário em Gestão de Projetos na ANBIMA/Selic, no convênio com o Banco Central, onde aplico minha afinidade com tecnologia para otimizar processos.
+Desenvolvedor apaixonado por criar soluções inovadoras e superar desafios. Atualmente, atuo como estagiário em Desenvolvimento Fullstack Java/Angular na ANBIMA/Selic, no convênio com o Banco Central, onde aplico minha afinidade com tecnologia para otimizar processos.
 
 Estou sempre em busca de novos conhecimentos e com um projeto novo em mente!
 
