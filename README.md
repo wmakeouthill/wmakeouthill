@@ -1,6 +1,29 @@
 # 👋 Olá! Eu sou Wesley (@wmakeouthill)
 
-> *"Quanto mais você sua no treino, menos sangra no combate"* - Provérbio ninja (ou programador em deadline)
+<table>
+  <tr>
+    <td width="35%">
+      <a href="https://wmakeouthill.dev" target="_blank">
+        <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="100%">
+      </a>
+    </td>
+    <td width="65%">
+      <h3>🚀 Desenvolvedor Full-Stack</h3>
+      <p><strong>Desenvolvedor Full‑Stack</strong> — Backend: Java, Spring Boot | Frontend: Angular (17+) | Docker | CI/CD | Google Cloud Run | Firebase</p>
+      <p>Apoio no desenvolvimento de sistemas críticos de infraestrutura financeira na <strong>ANBIMA/Selic</strong> (Banco Central).</p>
+      <p>
+        <a href="https://wmakeouthill.dev" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfólio-FF6B6B?style=for-the-badge" /></a>
+        <a href="https://www.linkedin.com/in/wcacorreia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://api.whatsapp.com/send/?phone=5521983866676" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+        <a href="mailto:wcacorreia1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      </p>
+      <p><i>"Quanto mais você sua no treino, menos sangra no combate"</i> - Provérbio ninja (ou programador em deadline) 🥷</p>
+      <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwmakeouthill"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fwmakeouthill&label=Visitantes&labelColor=%23000&countColor=%2327b800&labelStyle=upper" /></a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🚀 Sobre mim
 
@@ -12,49 +35,81 @@ Estou sempre em busca de novos conhecimentos e com um projeto novo em mente!
 
 Minha caixa de ferramentas está sempre evoluindo. Atualmente, estou focado e trabalhando com:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<details open>
+  <summary><b>⚙️ Backend</b></summary>
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <br><br>
+  </div>
+</details>
 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<details open>
+  <summary><b>🎨 Frontend</b></summary>
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/electron-191970?style=for-the-badge&logo=electron&logoColor=white" />
+    <br><br>
+  </div>
+</details>
 
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<details open>
+  <summary><b>🗄️ Banco de Dados</b></summary>
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/liquibase-%232F69A5.svg?style=for-the-badge&logo=liquibase&logoColor=white" />
+    <br><br>
+  </div>
+</details>
 
-  <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<details open>
+  <summary><b>☁️ Cloud & DevOps</b></summary>
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+    <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+    <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
+    <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    <br><br>
+  </div>
+</details>
 
-  <img src="https://img.shields.io/badge/liquibase-%232F69A5.svg?style=for-the-badge&logo=liquibase&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/lombok-000000?style=for-the-badge&logo=lombok&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-</div>
+<details open>
+  <summary><b>📊 Automação & BI</b></summary>
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+    <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <br><br>
+  </div>
+  <p align="right"><i>"Ferramentas são apenas ferramentas, o mais importante é conhecer os princípios."</i></p>
+</details>
 
 ## 🌊 Projetos em Desenvolvimento
 
@@ -77,6 +132,38 @@ Minha caixa de ferramentas está sempre evoluindo. Atualmente, estou focado e tr
 
 - 🎨 **PintarApp**: Aplicação de pintura e arte digital (em desenvolvimento).
 
+## 🏆 Estatísticas e Troféus
+
+<div align="center">
+
+### 🏅 Troféus do GitHub
+
+<img src="https://github-profile-trophy-rust.vercel.app/?username=wmakeouthill&theme=darkhub&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="Troféus GitHub"/>
+
+</div>
+
+<details open>
+  <summary><b>📈 Estatísticas Gerais</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wmakeouthill&show_icons=true&title_color=DBC27D&icon_color=DBC27D&text_color=DBC27D&bg_color=002E59&hide_border=true" height="165" alt="GitHub Stats"/>
+    <img src="https://streak-stats.demolab.com?user=wmakeouthill&background=002E59&ring=DBC27D&fire=DBC27D&currStreakLabel=DBC27D&sideLabels=DBC27D&currStreakNum=DBC27D&sideNums=DBC27D&dates=DBC27D&stroke=DBC27D&hide_border=true" height="165" alt="GitHub Streak"/>
+  </p>
+</details>
+
+<details open>
+  <summary><b>📊 Mais Estatísticas (clique aqui)</b></summary><br>
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wmakeouthill&theme=github_dark" height="150" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wmakeouthill&theme=github_dark&utcOffset=-3" height="150" alt="Productive Time"/>
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wmakeouthill&theme=github_dark" height="150" alt="Repos por Linguagem"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wmakeouthill&theme=github_dark" height="150" alt="Linguagem Mais Commitada"/>
+    <br><br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmakeouthill&bg_color=002E59&color=DBC27D&line=DBC27D&point=DBC27D&area_color=DBC27D&title_color=DBC27D&area=true&hide_border=true" height="280" alt="Activity Graph"/>
+  </div>
+</details>
+
 ## 🎵 Quando não estou codando
 
 Provavelmente estou:
@@ -88,28 +175,54 @@ Provavelmente estou:
   - 🎤 Trap e Rap
   - 🌃 Arctic Monkeys, The Strokes
 
-## 📊 GitHub Stats
+## 💻 Linguagens Mais Usadas
 
 <div align="center">
 
-| 📈 Estatísticas Gerais | 🔥 Sequência de Contribuições | 💻 Linguagens Mais Usadas |
-|---|---|---|
-| ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=wmakeouthill&theme=radical&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmakeouthill&theme=radical&hide_border=false&background=0D1117&border=44475a&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b) | ![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs?username=wmakeouthill&theme=radical&layout=compact&langs_count=8) |
-
-### 📅 Gráfico de Contribuições
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wmakeouthill&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=ff6b6b&line=ff6b6b&point=ff6b6b)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wmakeouthill&layout=donut&langs_count=8&title_color=DBC27D&text_color=DBC27D&bg_color=002E59&hide_border=true" height="250" alt="Top Langs Donut"/>
+    </td>
+    <td>
+      <h4>🎯 Foco Atual</h4>
+      <ul>
+        <li><strong>Java 17/21</strong> - Backend Enterprise</li>
+        <li><strong>TypeScript</strong> - Frontend Angular</li>
+        <li><strong>SQL</strong> - Oracle, MySQL, PostgreSQL</li>
+      </ul>
+      <h4>📚 Experiência Profissional</h4>
+      <ul>
+        <li>Sistemas críticos financeiros (ANBIMA/Selic)</li>
+        <li>Migração COBOL → Java moderno</li>
+        <li>Observabilidade com Prometheus + Grafana</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=wmakeouthill&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🌐 Vamos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wcacorreia/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5521983866676&text&type=phone_number&app_absent=0) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wcacorreia1995@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wcacorreia/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5521983866676&text&type=phone_number&app_absent=0) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wcacorreia1995@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://wmakeouthill.dev)
 
 ---
 
-> *"Programador bom é programador descansado"* — Eu, provavelmente, depois de debugar por 5 horas seguidas.
+<details>
+  <summary><b>📜 Referências e Ferramentas Utilizadas</b></summary><br>
+  <ul>
+    <li>Badge de Visitantes por <a href="https://visitorbadge.io/" target="_blank">visitorbadge.io</a></li>
+    <li>Imagem GIF do Matrix por <a href="https://giphy.com" target="_blank">giphy.com</a></li>
+    <li>GitHub Streaks por <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">DenverCoder1</a></li>
+    <li>Gráfico de Contribuições por <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank">Ashutosh00710</a></li>
+    <li>Troféus do GitHub por <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">ryo-ma</a></li>
+    <li>Stats do GitHub e Top Languages por <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">anuraghazra</a></li>
+    <li>Cards de Resumo do GitHub por <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">vn7n24fzkq</a></li>
+  </ul>
+  <div align="right">Feito com 💚 por <a href="https://github.com/wmakeouthill">@wmakeouthill</a>.</div>
+</details>
+
+<div align="center">
+  <i>"Programador bom é programador descansado"</i> — Eu, provavelmente, depois de debugar por 5 horas seguidas.
+</div>
