@@ -2,12 +2,14 @@
 
 <table>
   <tr>
-    <td width="35%">
+    <td style="width:clamp(260px,32vw,360px);">
       <a href="https://wmakeouthill.dev" target="_blank">
         <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="100%">
       </a>
+      <br>
+      <img src="https://preview.redd.it/one-piece-ultrawide-pack-5120x1440-v0-9iirx6dmxyd91.png?width=1080&crop=smart&auto=webp&s=c2b8e0d5f8f3b94f3ba0e4519d124fbcdaa00b28" width="100%" alt="One Piece ship ultrawide">
     </td>
-    <td width="65%">
+    <td style="width:auto;">
       <h3>🚀 Desenvolvedor Full-Stack</h3>
       <p><strong>Desenvolvedor Full‑Stack</strong> — Backend: Java, Spring Boot | Frontend: Angular (17+) | Docker | CI/CD | Google Cloud Run | Firebase</p>
       <p>Atualmente sou estagiário, apoiando no desenvolvimento de sistemas críticos de infraestrutura financeira na <strong>ANBIMA/Selic</strong> (Banco Central), e tocando outros projetos no tempo livre.</p>
@@ -18,7 +20,54 @@
         <a href="mailto:wcacorreia1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
       <p><i>"Quanto mais você sua no treino, menos sangra no combate"</i> - Provérbio ninja (ou programador em deadline) 🥷</p>
-      <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwmakeouthill"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fwmakeouthill&label=Visitantes&labelColor=%23000&countColor=%2327b800&labelStyle=upper" /></a>
+      <div style="display:flex;flex-wrap:nowrap;gap:6px;align-items:center;overflow-x:auto;padding-bottom:4px">
+        <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwmakeouthill">
+          <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fwmakeouthill&label=%C3%9Anicos%20%7C%20Visitas&labelColor=%23000&countColor=%2327b800&labelStyle=upper" alt="Badge mostra Únicos / Visitas (ex.: 50/184)" style="height:20px;object-fit:contain;display:block;vertical-align:middle"/>
+        </a>
+        <img src="https://img.shields.io/badge/Total-155-27b800?style=flat&labelColor=000" alt="Total de visitantes 155"/>
+        <img src="https://img.shields.io/badge/Hoje-21-27b800?style=flat&labelColor=000" alt="Visitantes hoje 21"/>
+        <img src="https://img.shields.io/badge/Últimos_2_dias-12-27b800?style=flat&labelColor=000" alt="Últimos 2 dias 12"/>
+        <img src="https://img.shields.io/badge/Média-6%2Fdia-27b800?style=flat&labelColor=000" alt="Média 6 por dia"/>
+        <img src="https://img.shields.io/badge/Pico-9_(2025--12--09)-27b800?style=flat&labelColor=000" alt="Pico 9 em 2025-12-09"/>
+        <img src="https://img.shields.io/badge/Top_país-EUA_(8)-27b800?style=flat&labelColor=000" alt="Top país Estados Unidos com 8"/>
+        <img src="https://img.shields.io/badge/Top_nav-GitHub_Proxy_(8)-27b800?style=flat&labelColor=000" alt="Top navegador GitHub Proxy com 8"/>
+        <a href="https://projeto-wesley-263590688560.southamerica-east1.run.app" target="_blank" style="display:flex;align-items:center;line-height:0">
+          <img src="https://img.shields.io/badge/P%C3%A1gina_popular-run.app_(3)-27b800?style=flat&labelColor=000" alt="Página mais visitada: run.app (3 visitas)" style="display:block;vertical-align:middle"/>
+        </a>
+      </div>
+        <details>
+          <summary><b>👀 Visitas (snapshot)</b></summary>
+          <table>
+            <tr>
+              <td><b>Total</b></td><td>155</td>
+              <td><b>Hoje</b></td><td>21</td>
+            </tr>
+            <tr>
+              <td><b>↗️ Var.</b></td><td>+200%</td>
+              <td><b>↗️ Var.</b></td><td>+200%</td>
+            </tr>
+            <tr>
+              <td><b>Últimos 2 dias</b></td><td>12</td>
+              <td><b>Média</b></td><td>6 / dia</td>
+            </tr>
+            <tr>
+              <td><b>Pico</b></td><td>9</td>
+              <td><b>Data</b></td><td>2025-12-09</td>
+            </tr>
+            <tr>
+              <td><b>Top país</b></td><td colspan="3">Estados Unidos (8)</td>
+            </tr>
+            <tr>
+              <td><b>Top navegador</b></td><td colspan="3">GitHub Proxy (8)</td>
+            </tr>
+            <tr>
+              <td><b>Página mais visitada</b></td>
+              <td colspan="3"><a href="https://projeto-wesley-263590688560.southamerica-east1.run.app" target="_blank">/run.app</a> (3)</td>
+            </tr>
+          </table>
+          <sub>Fonte: visitorbadge.io</sub>
+        </details>
+      </div>
     </td>
   </tr>
 </table>
@@ -43,6 +92,7 @@ Minha caixa de ferramentas está sempre evoluindo. Atualmente, estou focado e tr
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <br><br>
   </div>
@@ -147,7 +197,7 @@ Minha caixa de ferramentas está sempre evoluindo. Atualmente, estou focado e tr
   <br>
   <p align="center">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wmakeouthill&show_icons=true&title_color=DBC27D&icon_color=DBC27D&text_color=DBC27D&bg_color=002E59&hide_border=true" height="165" alt="GitHub Stats"/>
-    <img src="https://streak-stats.demolab.com?user=wmakeouthill&background=002E59&ring=DBC27D&fire=DBC27D&currStreakLabel=DBC27D&sideLabels=DBC27D&currStreakNum=DBC27D&sideNums=DBC27D&dates=DBC27D&stroke=DBC27D&hide_border=true" height="165" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=wmakeouthill&theme=radical&hide_border=true&card_width=430&border_radius=12" height="165" alt="GitHub Streak"/>
   </p>
 </details>
 
@@ -182,7 +232,7 @@ Provavelmente estou:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wmakeouthill&layout=donut&langs_count=8&title_color=DBC27D&text_color=DBC27D&bg_color=002E59&hide_border=true" height="250" alt="Top Langs Donut"/>
+      <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=wmakeouthill&theme=radical&layout=donut&langs_count=8&hide_border=false" height="250" alt="Top Langs Donut"/>
     </td>
     <td>
       <h4>🎯 Foco Atual</h4>
