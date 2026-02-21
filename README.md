@@ -8,7 +8,7 @@
 <div align="center">
   <p><i>Bem vindo aos meus grimórios sombrios.</i></p>
   <a href="https://github-stats-wmakeouthill.vercel.app/">
-    <img src="https://raw.githubusercontent.com/wmakeouthill/github-stats-wmakeouthill/main/public/assets/dashboard_animated.webp" 
+    <img src="https://raw.githubusercontent.com/wmakeouthill/github_stats_wmakeouthill/refs/heads/main/public/assets/dashboard_animated.webp" 
          alt="Meu Mosaico Cósmico Vivo" 
          width="900" 
          style="border-radius: 12px; box-shadow: 0 4px 30px rgba(107, 33, 168, 0.4);" 
