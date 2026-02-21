@@ -1,5 +1,24 @@
 <div align="center">
-  
+
+## 📊 Painel GitHub Stats
+
+[![GitHub Stats Panel](https://github-stats-wmakeouthill.vercel.app/api/preview)](https://github-stats-wmakeouthill.vercel.app/)
+
+*Clique na imagem para abrir o painel interativo*
+<div align="center">
+  <p><i>Bem vindo aos meus grimórios sombrios.</i></p>
+  <a href="https://github-stats-wmakeouthill.vercel.app/">
+    <img src="https://raw.githubusercontent.com/wmakeouthill/github-stats-wmakeouthill/main/public/assets/dashboard_animated.webp" 
+         alt="Meu Mosaico Cósmico Vivo" 
+         width="900" 
+         style="border-radius: 12px; box-shadow: 0 4px 30px rgba(107, 33, 168, 0.4);" 
+    />
+  </a>
+  <br />
+  <p align="center"><b>✦ O site acima funciona exatamente como você vê. Pressione-o para entrar ✦</b></p>
+</div>
+---
+
 # 👋 Olá! Eu sou Wesley ([@wmakeouthill](https://github.com/wmakeouthill))
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=DBC27D&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Developer;Java+17%2F21+%7C+Spring+Boot+3.x;Angular+17%2B+%7C+TypeScript+%7C+RxJS;Clean+Architecture+%7C+DDD+%7C+SOLID;OWASP+%7C+RBAC+%7C+Microservices;Docker+%7C+CI%2FCD+%7C+Google+Cloud+Run)](https://wmakeouthill.dev)
