@@ -2,7 +2,7 @@
 
 ## 📊 Painel GitHub Stats
 
-[![GitHub Stats Panel](https://github-stats-wmakeouthill.vercel.app/api/preview)](https://github-stats-wmakeouthill.vercel.app/)
+[![GitHub Stats Panel](https://github-stats-wmakeouthill.vercel.app/api/preview?v=1)](https://github-stats-wmakeouthill.vercel.app/)
 
 *Clique na imagem para abrir o painel interativo*
 <div align="center">
