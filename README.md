@@ -2,16 +2,16 @@
 
 ## 📊 Painel GitHub Stats
 
-[![GitHub Stats Panel](https://github-stats-wmakeouthill.vercel.app/api/preview?v=1)](https://github-stats-wmakeouthill.vercel.app/)
+[![GitHub Stats Panel](https://github-stats-wmakeouthill.vercel.app/api/preview)](https://github-stats-wmakeouthill.vercel.app/)
 
 *Clique na imagem para abrir o painel interativo*
 <div align="center">
   <p><i>Bem vindo aos meus grimórios sombrios.</i></p>
   <a href="https://github-stats-wmakeouthill.vercel.app/">
-    <img src="https://raw.githubusercontent.com/wmakeouthill/github_stats_wmakeouthill/refs/heads/main/public/assets/dashboard_animated.webp" 
-         alt="Meu Mosaico Cósmico Vivo" 
-         width="900" 
-         style="border-radius: 12px; box-shadow: 0 4px 30px rgba(107, 33, 168, 0.4);" 
+    <img src="https://raw.githubusercontent.com/wmakeouthill/github_stats_wmakeouthill/refs/heads/main/public/assets/dashboard_animated.webp"
+         alt="Meu Mosaico Cósmico Vivo"
+         width="900"
+         style="border-radius: 12px; box-shadow: 0 4px 30px rgba(107, 33, 168, 0.4);"
     />
   </a>
   <br />
@@ -64,9 +64,11 @@
 Atualmente na **ANBIMA/Selic em convênio com o Banco Central do Brasil**, contribuindo para a modernização da infraestrutura financeira nacional — migração de mainframe (COBOL) para arquitetura Java moderna com observabilidade completa.
 
 ### 🏗️ Arquitetura & Princípios
+
 `Clean Architecture` • `Domain-Driven Design (DDD)` • `Hexagonal Architecture` • `SOLID` • `RBAC` • `OWASP Top 10` • `Microservices`
 
 ### ⚡ Diferenciais Técnicos
+
 - **Distributed Locks** (Redisson) e **Cache Multi-Camadas** (Caffeine + Redis)
 - **Circuit Breaker** e **Retry Patterns** (Resilience4j)
 - **Real-time** com WebSockets e SSE (Server-Sent Events)
@@ -175,30 +177,37 @@ Atualmente na **ANBIMA/Selic em convênio com o Banco Central do Brasil**, contr
 ## 🌊 Projetos em Destaque
 
 ### 🛵 **Experimenta AI - Soneca Delivery**
+
 Sistema completo de delivery com **rastreamento GPS em tempo real** (Google Maps), **OAuth 2.0** (Google), **SSE** para notificações, **PWA** com Service Workers, app dedicado para motoboys (Kanban) e autenticação híbrida JWT.
 > `Java 17` `Spring Boot 3.x` `Angular 17+` `MySQL` `Clean Architecture` `Google Maps API` `OAuth 2.0` `SSE`
 
 ### 🎮 **LoL Matchmaking Fazenda**
+
 Sistema enterprise de matchmaking com **estado distribuído** (Redis), **distributed locks** (Redisson), **circuit breaker** (Resilience4j), automação Discord (JDA), integração LCU (League Client), WebSocket real-time e cliente desktop Electron.
 > `Java 21` `Spring Boot 3.3` `Angular 20` `Redis` `Redisson` `Caffeine` `JDA Discord` `Electron` `Google Cloud Run`
 
 ### 🍔 **Experimenta AI - Soneca**
+
 Sistema completo de gestão para lanchonetes com **Clean Architecture**, impressão de cupons fiscais (ESC/POS), gestão de pedidos em tempo real e aplicação desktop nativa com Electron.
 > `Java 17` `Spring Boot 3.2` `Angular 17+` `MySQL` `Liquibase` `Electron` `Clean Architecture`
 
 ### 🏪 **Mercearia R-V**
+
 Sistema desktop enterprise **100% offline-first** com **PostgreSQL embarcado** + JDK incluso no instalador, geração de PDFs server-side (OpenHTMLToPDF), JWT auth e empacotamento NSIS.
 > `Java 21` `Spring Boot 3.5` `Angular 20` `PostgreSQL Embedded` `Electron` `NSIS`
 
 ### 🧠 **AA Space**
+
 Plataforma de comunidade em tempo real com chat privado/grupo (WebSocket), fórum interativo, TypeORM com SQLite, autenticação JWT com refresh tokens.
 > `Angular 19` `Node.js` `Express` `TypeScript` `Socket.IO` `TypeORM` `SQLite`
 
 ### ⏩ **Auto Skip Video**
+
 Chrome Extension de alta performance com arquitetura **zero-polling** (event-driven), **Manifest V3**, compatível com SPAs, privacidade total.
 > `JavaScript ES6+` `Chrome Extension API` `Manifest V3` `Event-Driven Architecture`
 
 ### 📊 **Traffic Manager**
+
 Dashboard de monitoramento em tempo real com **Angular Signals**, standalone components, lifecycle hooks avançados.
 > `Angular 18` `TypeScript` `Signals` `RxJS`
 
