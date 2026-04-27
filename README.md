@@ -21,7 +21,7 @@
 
 # 👋 Olá! Eu sou Wesley ([@wmakeouthill](https://github.com/wmakeouthill))
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=DBC27D&center=true&vCenter=true&random=false&width=650&lines=Full-Stack+Developer;Java+17%2F21+%7C+Spring+Boot+3.x;Angular+17%2B+%7C+TypeScript+%7C+RxJS;Clean+Architecture+%7C+DDD+%7C+SOLID;OWASP+%7C+RBAC+%7C+Microservices;Docker+%7C+CI%2FCD+%7C+Google+Cloud+Run)](https://wmakeouthill.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=DBC27D&center=true&vCenter=true&random=false&width=720&lines=Full+Stack+Engineer+%7C+Full+Cycle;Java+17%2F21+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;Angular+17%E2%80%9320+%7C+React+19+%7C+TypeScript;IA+Aplicada+%7C+RAG+%7C+LLMs+%7C+Vision+%2B+YOLO;Integra%C3%A7%C3%B5es+ERP+%7C+Slack+%7C+Microsoft+365;Clean+Architecture+%7C+SOLID+%7C+DDD;Docker+%7C+CI%2FCD+%7C+AWS+%7C+GCP+%7C+VPS)](https://wmakeouthill.dev)
 
 </div>
 
@@ -35,8 +35,8 @@
       <img src="https://preview.redd.it/one-piece-ultrawide-pack-5120x1440-v0-9iirx6dmxyd91.png?width=1080&crop=smart&auto=webp&s=c2b8e0d5f8f3b94f3ba0e4519d124fbcdaa00b28" width="100%" alt="One Piece" style="border-radius: 8px;">
     </td>
     <td valign="top">
-      <h3>🚀 Desenvolvedor Full-Stack | Sistemas Escaláveis & Alta Criticidade</h3>
-      <p>Atualmente na <strong>ANBIMA/Selic</strong> (Banco Central do Brasil), contribuindo para a modernização da infraestrutura financeira nacional — migração de mainframe (COBOL) para arquitetura Java moderna.</p>
+      <h3>🚀 Engenheiro Full Stack | Eficiência Operacional, IA Aplicada & Integrações Corporativas</h3>
+      <p>Atualmente na <strong>AutoU</strong>, atuando full cycle em produto B2B de gestão de pessoas, metas e RH, em paralelo a projetos de IA aplicada (Visão Computacional + YOLO, RAG, LLMs) e algoritmos preditivos (Prophet). Histórico em modernização de sistemas em ambientes corporativos regulados (Selic / Banco Central) e em RPA full-Python no setor jurídico.</p>
       <br>
       <p>
         <a href="https://wmakeouthill.dev" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfólio-FF6B6B?style=for-the-badge" /></a>
@@ -59,28 +59,40 @@
 
 ## 🚀 Sobre mim
 
-**Desenvolvedor Full-Stack** especializado em **Java 17/21**, **Spring Boot 3.x** e **Angular 17+**, com experiência em sistemas de alta criticidade no setor financeiro.
+**Engenheiro Full Stack** atuando do desenho da arquitetura ao monitoramento em produção, com foco em **eficiência operacional** e em produtos que geram **ganho real de produtividade no dia a dia das empresas**.
 
-Atualmente na **ANBIMA/Selic em convênio com o Banco Central do Brasil**, contribuindo para a modernização da infraestrutura financeira nacional — migração de mainframe (COBOL) para arquitetura Java moderna com observabilidade completa.
+Concentro a entrega em três eixos:
+
+- **Automação de fluxos manuais** — RPA, integração de APIs e eliminação de retrabalho
+- **IA aplicada** — pipelines de Visão Computacional (Vision + YOLO) + LLM via LangGraph, RAG com bancos vetoriais (FAISS, pgvector), embeddings (Gemini) e modelos preditivos com Prophet. Sempre em produção, conectada a uma dor real do negócio.
+- **Integrações corporativas** — ERPs (Sankhya/Microwork, SAP), Slack, Microsoft 365 / Outlook
+
+Atuo hoje em **full cycle de produto B2B de gestão de pessoas, metas e RH** na **AutoU**, em paralelo a projetos de IA aplicada e algoritmos preditivos. Histórico em **modernização de sistemas em ambientes corporativos regulados** (Selic / Banco Central — COBOL → Java/Spring Boot, observabilidade ponta a ponta, CI/CD em GitLab) e em **RPA full-Python em larga escala** no setor jurídico.
+
+Entrego software escalável e cloud-native em **AWS**, **GCP** e **VPS dedicada** (Oracle Cloud Always Free), com containerização, pipelines de CI/CD, observabilidade ponta a ponta e segurança aplicada (OWASP, JWT, OAuth 2.0, IAM, VPC, API Key Header). Sob **Clean Architecture, SOLID, DDD** e código sustentável.
 
 ### 🏗️ Arquitetura & Princípios
 
-`Clean Architecture` • `Domain-Driven Design (DDD)` • `Hexagonal Architecture` • `SOLID` • `RBAC` • `OWASP Top 10` • `Microservices`
+`Clean Architecture` • `Clean Code` • `Design Patterns` • `Domain-Driven Design (DDD)` • `Hexagonal Architecture` • `SOLID` • `DRY` • `KISS` • `ACID` • `RBAC` • `OWASP Top 10` • `Event-Driven`
 
 ### ⚡ Diferenciais Técnicos
 
+- **IA aplicada em produção** — RAG, LangGraph, embeddings (Gemini), FAISS/pgvector, Prophet, Vision + YOLO
+- **Dashboards e visualização de dados** — interfaces interativas que combinam dados de negócio com modelos preditivos / IA (Angular Signals + Chart.js, React 19, Power BI/DAX para BI corporativo)
+- **Integrações corporativas** — ERPs (Sankhya/Microwork, SAP), Slack, Microsoft 365 / Outlook
 - **Distributed Locks** (Redisson) e **Cache Multi-Camadas** (Caffeine + Redis)
 - **Circuit Breaker** e **Retry Patterns** (Resilience4j)
-- **Real-time** com WebSockets e SSE (Server-Sent Events)
-- **PWA**, Service Workers, Chrome Extensions (Manifest V3)
-- Integração com APIs: **Google Maps**, **OpenAI**, **Discord (JDA)**, **LCU (League of Legends)**
+- **Real-time** com WebSockets, SSE e gRPC
+- **PWA**, Service Workers, Chrome Extensions (Manifest V3), Electron, Ionic, React Native
+- **Cloud-native multi-cloud** (AWS + GCP) + VPS dedicada para cargas previsíveis 24/7
+- Integração com APIs: **Gemini**, **OpenAI**, **Discord (JDA)**, **LCU (League of Legends)**, **Google Maps**, **Evolution API (WhatsApp)**
 
 ---
 
 ## 💻 Tech Stack
 
 <details open>
-  <summary><b>⚙️ Backend (Enterprise)</b></summary>
+  <summary><b>⚙️ Backend (Enterprise & Modern)</b></summary>
   <div align="center">
     <br>
     <img src="https://img.shields.io/badge/java_17/21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -88,14 +100,20 @@ Atualmente na **ANBIMA/Selic em convênio com o Banco Central do Brasil**, contr
     <img src="https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
     <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
     <br>
-    <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-    <img src="https://img.shields.io/badge/oauth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-    <img src="https://img.shields.io/badge/rest_api-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
-    <img src="https://img.shields.io/badge/websocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+    <img src="https://img.shields.io/badge/python_3.11+-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/.net_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/asp.net_webapi-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+    <img src="https://img.shields.io/badge/oauth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+    <img src="https://img.shields.io/badge/rest_api-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/grpc-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
+    <img src="https://img.shields.io/badge/websocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
     <br><br>
   </div>
 </details>
@@ -104,18 +122,53 @@ Atualmente na **ANBIMA/Selic em convênio com o Banco Central do Brasil**, contr
   <summary><b>🎨 Frontend (Modern)</b></summary>
   <div align="center">
     <br>
-    <img src="https://img.shields.io/badge/angular_17+-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/angular_17–20-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/react_19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
     <img src="https://img.shields.io/badge/typescript_5.x-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <br>
     <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
     <img src="https://img.shields.io/badge/signals-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/standalone-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/angular_material-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-    <img src="https://img.shields.io/badge/electron-191970?style=for-the-badge&logo=electron&logoColor=white" />
     <img src="https://img.shields.io/badge/chrome_extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    <br>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css3/scss-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <br><br>
+  </div>
+</details>
+
+<details open>
+  <summary><b>📱 Mobile / Desktop</b></summary>
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/electron_27%2F28-191970?style=for-the-badge&logo=electron&logoColor=white" />
+    <img src="https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+    <img src="https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <br><br>
+  </div>
+</details>
+
+<details open>
+  <summary><b>🤖 IA & Dados</b></summary>
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+    <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/embeddings-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+    <img src="https://img.shields.io/badge/faiss-005571?style=for-the-badge&logo=meta&logoColor=white" />
+    <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/prophet-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/vision_%2B_YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+    <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
     <br><br>
   </div>
 </details>
@@ -125,11 +178,16 @@ Atualmente na **ANBIMA/Selic em convênio com o Banco Central do Brasil**, contr
   <div align="center">
     <br>
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <br>
     <img src="https://img.shields.io/badge/liquibase-%232F69A5.svg?style=for-the-badge&logo=liquibase&logoColor=white" />
+    <img src="https://img.shields.io/badge/alembic-336791?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/caffeine_cache-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <br><br>
   </div>
@@ -139,12 +197,16 @@ Atualmente na **ANBIMA/Selic em convênio com o Banco Central do Brasil**, contr
   <summary><b>☁️ Cloud, DevOps & Observabilidade</b></summary>
   <div align="center">
     <br>
+    <img src="https://img.shields.io/badge/AWS_(EC2)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/GCP_(Cloud_Run)-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle_Cloud_VPS-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <br>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google%20Cloud%20Run-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
     <br>
-    <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+    <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
     <img src="https://img.shields.io/badge/gitlab_ci-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <br>
@@ -152,17 +214,61 @@ Atualmente na **ANBIMA/Selic em convênio com o Banco Central do Brasil**, contr
     <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
     <img src="https://img.shields.io/badge/micrometer-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+    <img src="https://img.shields.io/badge/blackbox_exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
     <br><br>
   </div>
 </details>
 
 <details open>
-  <summary><b>🔗 Integrações & APIs</b></summary>
+  <summary><b>🔒 Segurança & DevSecOps</b></summary>
   <div align="center">
     <br>
-    <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+    <img src="https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+    <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+    <img src="https://img.shields.io/badge/oauth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/rbac-1F2937?style=for-the-badge&logo=keycloak&logoColor=white" />
+    <img src="https://img.shields.io/badge/api_key_(X--Header)-512BD4?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/cors-FF6B6B?style=for-the-badge&logo=mozilla&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/GCP_IAM-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/firewall_%2F_NAT-DC382D?style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/secrets_manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <br><br>
+  </div>
+</details>
+
+<details open>
+  <summary><b>🛠️ Dev Tooling & AI Coding</b></summary>
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+    <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codex_CLI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <br><br>
+  </div>
+</details>
+
+<details open>
+  <summary><b>🔗 Integrações & Automação / BI</b></summary>
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/sankhya_microwork_ERP-002E59?style=for-the-badge&logo=erpnext&logoColor=white" />
+    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    <img src="https://img.shields.io/badge/microsoft_365-D83B01?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <br>
     <img src="https://img.shields.io/badge/google_maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
     <img src="https://img.shields.io/badge/discord_jda-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/evolution_api-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
     <img src="https://img.shields.io/badge/selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -176,52 +282,63 @@ Atualmente na **ANBIMA/Selic em convênio com o Banco Central do Brasil**, contr
 
 ## 🌊 Projetos em Destaque
 
-### 🛵 **Experimenta AI - Soneca Delivery**
+### 🎮 **LoL Fazenda Inhouse**
 
-Sistema completo de delivery com **rastreamento GPS em tempo real** (Google Maps), **OAuth 2.0** (Google), **SSE** para notificações, **PWA** com Service Workers, app dedicado para motoboys (Kanban) e autenticação híbrida JWT.
-> `Java 17` `Spring Boot 3.x` `Angular 17+` `MySQL` `Clean Architecture` `Google Maps API` `OAuth 2.0` `SSE`
+Plataforma de matchmaking competitivo com **arquitetura migrada de Java/Spring/Redis para Python/gRPC** — backend FastAPI + gRPC com estado em memória + DB, integração com **League Client (LCU)**, bot Discord (JDA) e cliente desktop Electron 28. Demonstra ownership de produto end-to-end e capacidade de redesenho arquitetural.
+> `Python` `FastAPI` `gRPC` `Angular 20` `Electron 28` `PostgreSQL` `Alembic` `JDA Discord` `LCU`
 
-### 🎮 **LoL Matchmaking Fazenda**
+### 🤖 **Wesley Bot WhatsApp**
 
-Sistema enterprise de matchmaking com **estado distribuído** (Redis), **distributed locks** (Redisson), **circuit breaker** (Resilience4j), automação Discord (JDA), integração LCU (League Client), WebSocket real-time e cliente desktop Electron.
-> `Java 21` `Spring Boot 3.3` `Angular 20` `Redis` `Redisson` `Caffeine` `JDA Discord` `Electron` `Google Cloud Run`
+Assistente conversacional com **RAG** (FAISS + Gemini) sobre documentos privados, **fluxo agêntico** que detecta a intenção do usuário e responde via texto, áudio (TTS) ou exporta planilha XLSX. Em produção 24/7 em **VPS dedicada** (Oracle Cloud Always Free) com Evolution API.
+> `Python 3.11` `FastAPI` `RAG` `FAISS` `Gemini` `Evolution API` `gTTS` `Docker`
+
+### 🏪 **Mercearia R&V**
+
+Sistema desktop enterprise **100% offline-first** com **PostgreSQL embarcado** + JDK incluso no instalador, geração de PDFs server-side (OpenHTMLToPDF/PDFBox), JWT auth e empacotamento NSIS — operação total sem dependências externas.
+> `Java 21` `Spring Boot 3.5` `Angular 20` `PostgreSQL Embedded` `Electron 27` `NSIS` `OpenHTMLToPDF`
+
+### 📰 **Publique Sua Notícia Popular**
+
+Plataforma full-stack para criação, edição e consumo de notícias com **OAuth 2.0 (Google)**, JWT, editor em blocos e **assistente editorial baseado em LLM (Gemini)** para gerar/refinar título, submanchete e corpo da notícia.
+> `Java 17` `Spring Boot 3.4` `Angular 21` `PostgreSQL 16` `OAuth 2.0` `JWT` `Gemini`
 
 ### 🍔 **Experimenta AI - Soneca**
 
 Sistema completo de gestão para lanchonetes com **Clean Architecture**, impressão de cupons fiscais (ESC/POS), gestão de pedidos em tempo real e aplicação desktop nativa com Electron.
 > `Java 17` `Spring Boot 3.2` `Angular 17+` `MySQL` `Liquibase` `Electron` `Clean Architecture`
 
-### 🏪 **Mercearia R-V**
+### 🛵 **Experimenta AI - Soneca Delivery**
 
-Sistema desktop enterprise **100% offline-first** com **PostgreSQL embarcado** + JDK incluso no instalador, geração de PDFs server-side (OpenHTMLToPDF), JWT auth e empacotamento NSIS.
-> `Java 21` `Spring Boot 3.5` `Angular 20` `PostgreSQL Embedded` `Electron` `NSIS`
+Sistema completo de delivery com **rastreamento GPS em tempo real** (Google Maps), **OAuth 2.0** (Google), **SSE** para notificações, **PWA** com Service Workers, app dedicado para motoboys (Kanban) e autenticação híbrida JWT.
+> `Java 17` `Spring Boot 3.x` `Angular 17+` `MySQL` `Clean Architecture` `Google Maps API` `OAuth 2.0` `SSE`
 
 ### 🧠 **AA Space**
 
 Plataforma de comunidade em tempo real com chat privado/grupo (WebSocket), fórum interativo, TypeORM com SQLite, autenticação JWT com refresh tokens.
 > `Angular 19` `Node.js` `Express` `TypeScript` `Socket.IO` `TypeORM` `SQLite`
 
+### 📊 **Traffic Manager**
+
+Dashboard de monitoramento em tempo real com **Angular Signals**, standalone components, lifecycle hooks avançados — exemplo de visualização interativa de dados.
+> `Angular 18` `TypeScript` `Signals` `RxJS` `Chart.js`
+
 ### ⏩ **Auto Skip Video**
 
 Chrome Extension de alta performance com arquitetura **zero-polling** (event-driven), **Manifest V3**, compatível com SPAs, privacidade total.
 > `JavaScript ES6+` `Chrome Extension API` `Manifest V3` `Event-Driven Architecture`
 
-### 📊 **Traffic Manager**
-
-Dashboard de monitoramento em tempo real com **Angular Signals**, standalone components, lifecycle hooks avançados.
-> `Angular 18` `TypeScript` `Signals` `RxJS`
-
 ---
 
 ## 💼 Experiência Profissional
 
-| Empresa | Cargo | Período | Tecnologias |
-|---------|-------|---------|-------------|
-| **ANBIMA/Selic (Banco Central)** | Dev Full-Stack | 2025 - Atual | Java, Spring Boot, Angular, Oracle, Docker, Prometheus, Grafana, GitLab CI/CD |
-| **ANBIMA/Selic (Banco Central)** | Projetos/Governança | 2024 - 2025 | Power BI, DAX, SharePoint, JavaScript |
-| **Gondim, Albuquerque e Negreiros ADV** | Automação/RPA | 2019 - 2024 | Python, Selenium, VBA, Web Scraping |
-| **Phillip Morris** | Analytics | 2018 - 2019 | VBA, Excel, Salesforce |
-| **Liquigás/Petrobras** | Administrativo | 2017 - 2018 | SAP, Excel |
+| Empresa | Cargo | Período | Modalidade | Tecnologias |
+|---------|-------|---------|------------|-------------|
+| **AutoU** | Dev Full Stack (Full Cycle) | 2026 - Atual | Remoto | Python, FastAPI, LangGraph, React 19, Vite, RAG, Vision + YOLO, Prophet, Sankhya/Microwork, Slack, Microsoft 365, AWS, GCP, Oracle Cloud (VPS) |
+| **ANBIMA/Selic (Banco Central)** | Dev Full Stack \| ScrumTeam | 2025 - 2026 | Híbrido | Java 17/21, Spring Boot 3.x, Angular, Oracle, Liquibase, Docker, Prometheus, Grafana, Micrometer, AlertManager, GitLab CI/CD |
+| **ANBIMA/Selic (Banco Central)** | Projetos/Governança | 2024 - 2025 | Híbrido | Power BI, DAX, SharePoint, JavaScript, PMI, Agile, MPS.BR, CMMI |
+| **Gondim, Albuquerque e Negreiros ADV** | Automação/RPA / Assistente Jurídico | 2019 - 2024 | Presencial | Python, Selenium, VBA, RPA, Web Scraping |
+| **Phillip Morris** | Analytics / Salesforce | 2018 - 2019 | Presencial | VBA, Excel, Salesforce |
+| **Liquigás/Petrobras** | Administrativo / Produção | 2017 - 2018 | Presencial | SAP, Excel |
 
 ---
 
@@ -271,22 +388,25 @@ Dashboard de monitoramento em tempo real com **Angular Signals**, standalone com
     <td>
       <h4>🎯 Foco Atual</h4>
       <ul>
-        <li><strong>Java 17/21</strong> - Backend Enterprise</li>
-        <li><strong>TypeScript</strong> - Angular + Node.js</li>
-        <li><strong>SQL</strong> - Oracle, MySQL, PostgreSQL</li>
+        <li><strong>Java 17/21 + Spring Boot 3.x</strong> - Backend Enterprise</li>
+        <li><strong>Python + FastAPI + LangGraph</strong> - IA aplicada e dados</li>
+        <li><strong>React 19 + Angular 17–20</strong> - Frontend moderno</li>
+        <li><strong>IA aplicada</strong> - RAG, LLMs, Vision + YOLO, Prophet</li>
+        <li><strong>Integrações corporativas</strong> - ERPs, Slack, Microsoft 365</li>
       </ul>
-      <h4>🏗️ Arquiteturas</h4>
+      <h4>🏗️ Arquiteturas & Princípios</h4>
       <ul>
-        <li>Clean Architecture & DDD</li>
+        <li>Clean Architecture, Clean Code, DDD</li>
         <li>Hexagonal (Ports & Adapters)</li>
-        <li>SOLID, RBAC, OWASP</li>
+        <li>SOLID, DRY, KISS, ACID</li>
+        <li>RBAC, OWASP Top 10, Event-Driven</li>
       </ul>
       <h4>📚 Formação</h4>
       <ul>
         <li>Ciências da Computação (em andamento)</li>
         <li>Direito (concluído)</li>
-        <li>Pós-grad Full-Stack Java</li>
-        <li>MBA Gestão de Projetos</li>
+        <li>Pós-grad Full Stack Java Developer</li>
+        <li>Pós-grad Gestão de Projetos</li>
       </ul>
     </td>
   </tr>
